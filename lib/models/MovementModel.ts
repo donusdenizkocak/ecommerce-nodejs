@@ -6,5 +6,6 @@ export interface MovementModel {
     quantity: number | 0,
     price: number | 0,
     amount: number | 0,
-    movementDate: string
+    movementDate: string,
+    isDelete: true| false
 }

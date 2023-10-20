@@ -9,7 +9,8 @@ export const products: Array<ProductModel> = [
         keyword: "kıstasiye",
         description: "kıstasiye",
         price: 100,
-        discountPrice: 80
+        discountPrice: 80,
+        quantity:20
     },
     {
         id: 2,
@@ -19,7 +20,8 @@ export const products: Array<ProductModel> = [
         keyword: "kıstasiye",
         description: "kıstasiye",
         price: 100,
-        discountPrice: 80
+        discountPrice: 80,
+        quantity:30
     },
     {
         id: 3,
@@ -29,6 +31,7 @@ export const products: Array<ProductModel> = [
         keyword: "kıstasiye",
         description: "kıstasiye",
         price: 100,
-        discountPrice: 80
+        discountPrice: 80,
+        quantity:40
     },
 ]
