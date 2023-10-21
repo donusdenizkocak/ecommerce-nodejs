@@ -72,7 +72,7 @@ export class Routes {
                     price: product.discountPrice,
                     amount: quantity * product.discountPrice,
                     movementDate: "2023-10-18",
-                    isDelete: false
+                    isDelete: false,
                 }
 
                 baskets.push(newBasket)
